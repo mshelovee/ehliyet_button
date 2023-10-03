@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\bolum2-uyguluma1\bolum2-uyguluma1\bin\Debug\bolum2-uyguluma1.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\bolum2-uyguluma1\bolum2-uyguluma1\bin\Debug\bolum2-uyguluma1.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\bolum2-uyguluma1\bolum2-uyguluma1\bin\Debug\bolum2-uyguluma1.pdb
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\bolum2-uyguluma1\bolum2-uyguluma1\obj\Debug\bolum2-uyguluma1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\bolum2-uyguluma1\bolum2-uyguluma1\obj\Debug\bolum2-uyguluma1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\bolum2-uyguluma1\bolum2-uyguluma1\obj\Debug\bolum2_uyguluma1.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\bolum2-uyguluma1\bolum2-uyguluma1\obj\Debug\bolum2_uyguluma1.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\bolum2-uyguluma1\bolum2-uyguluma1\obj\Debug\bolum2-uyguluma1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\bolum2-uyguluma1\bolum2-uyguluma1\obj\Debug\bolum2-uyguluma1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\bolum2-uyguluma1\bolum2-uyguluma1\obj\Debug\bolum2-uyguluma1.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\bolum2-uyguluma1\bolum2-uyguluma1\obj\Debug\bolum2-uyguluma1.pdb
